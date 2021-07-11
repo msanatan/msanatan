@@ -2,8 +2,7 @@
 
 My name is Marcus Sanatan! I'm a full stack developer getting into [games](https://msanatan.itch.io/). I also host game jams! Check out the latest one, Jammin 2021
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fiCOIeDXIrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Jammin Game Entry](https://img.youtube.com/vi/fiCOIeDXIrg/0.jpg)](https://www.youtube.com/watch?v=fiCOIeDXIrg "Jammin 2021")
 
 There's more to me than that, check out my website <https://msanatan.com>.
 
