@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Marcus Sanatan! I'm a full stack developer getting into [games](https://msanatan.itch.io/). I also host game jams! Check out the latest one, Jammin 2021
+I'm Marcus aka GameBoyMarcus! I'm a software dev who likes :video_game: [games](https://www.instagram.com/gameboymarcus/) and :computer: programming
 
-[![Jammin Game Entry](https://img.youtube.com/vi/fiCOIeDXIrg/0.jpg)](https://www.youtube.com/watch?v=fiCOIeDXIrg "Jammin 2021")
+I'm currently getting deeper into :eyeglasses: XR
 
-There's more to me than that, check out my website <https://msanatan.com>.
+For more info on who I am and what I'm working on, check out my website <https://msanatan.com>
 
 Be loved, and happy hacking!
 
